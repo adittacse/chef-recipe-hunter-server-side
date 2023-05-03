@@ -5,8 +5,7 @@ const port = 3000;
 
 app.use(cors());
 
-const chef = require("./data/chefData.json");
-const recipe = require("./data/recipeData.json");
+const chef = require("./data/chef.json");
 
 app.get('/', (req, res) => {
   res.send('Chef Recipe Hunter Is Running!');
