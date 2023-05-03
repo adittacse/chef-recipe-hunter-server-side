@@ -8,7 +8,7 @@ app.use(cors());
 const chef = require("./data/chef.json");
 
 app.get('/', (req, res) => {
-  res.send('Chef Recipe Hunter Is Running!');
+  res.send('Deshi Chef Is Running!');
 })
 
 app.get('/chef', (req, res) => {
@@ -26,5 +26,5 @@ app.get('/recipe', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+  console.log(`Deshi Chef listening on port ${port}`);
 })
