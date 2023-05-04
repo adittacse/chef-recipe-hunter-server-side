@@ -51,8 +51,46 @@
                 ],
                 "cookingMethod": "Cook macaroni until al dente, then stir in a sauce made from melted butter, flour, and milk. Add shredded cheddar cheese and stir until melted and combined. Serve hot.",
                 "rating": 4.4,
-                "image": "https://i.ibb.co/zstvGxc/f-13.jpg"
+                "image": "https://i.ibb.co/BKmsFcH/f-11.jpg"
+            },
+            {
+                "id": 27,
+                "recipeId": 1,
+                "name": "Chicken Alfredo Pasta",
+                "ingredients": [
+                    "pasta",
+                    "chicken breast",
+                    "heavy cream",
+                    "butter",
+                    "parmesan cheese",
+                    "garlic",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Cook pasta according to package instructions. In a separate pan, sauté garlic and chicken in butter until cooked through. Add heavy cream and parmesan cheese, stirring until the cheese is melted and the sauce thickens. Season with salt and pepper to taste. Toss with cooked pasta and serve hot.",
+                "rating": 4.8,
+                "image": "https://i.ibb.co/zstvGxc/f-30.jpg"
+            },
+            {
+                "id": 28,
+                "recipeId": 1,
+                "name": "Tomato Basil Soup",
+                "ingredients": [
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "olive oil",
+                    "chicken or vegetable broth",
+                    "cream",
+                    "basil leaves",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Roast tomatoes, onion, and garlic in the oven until softened. In a blender, purée the roasted vegetables with olive oil and chicken or vegetable broth until smooth. Heat the purée in a pot, then stir in cream, basil leaves, salt, and pepper. Serve hot.",
+                "rating": 4.6,
+                "image": "https://i.ibb.co/GPQ7BZZ/f-2.jpg"
             }
+            
         ]
     },
     {
@@ -62,7 +100,7 @@
         "yearsOfExperience": 5,
         "numberOfRecipes": 30,
         "likes": 500,
-        "description": "Chef Jane Smith is a rising star in the world of Mexican cuisine. Born and raised in Mexico City, she draws inspiration from her childhood memories of cooking with her grandmother. Chef Maria has trained under some of the most respected chefs in the industry, including Rick Bayless and Enrique Olvera. Her passion for fresh, vibrant ingredients and bold flavors is evident in every dish she creates. In her spare time, Chef Maria loves exploring the city's vibrant food scene and practicing yoga.",
+        "description": "Chef Jane Smith is a rising star in the world of French cuisine. Born and raised in capital, she draws inspiration from her childhood memories of cooking with her grandmother. Chef Maria has trained under some of the most respected chefs in the industry, including Rick Bayless and Enrique Olvera. Her passion for fresh, vibrant ingredients and bold flavors is evident in every dish she creates. In her spare time, Chef Maria loves exploring the city's vibrant food scene and practicing yoga.",
         "recipes": [
             {
                 "id": 2,
@@ -108,6 +146,42 @@
                 "cookingMethod": "Season pork ribs with a mixture of brown sugar, paprika, garlic powder, salt, and pepper. Grill or bake until cooked through, then brush with barbecue sauce and grill or broil until caramelized and sticky.",
                 "rating": 4.8,
                 "image": "https://i.ibb.co/jM7VVDw/f-14.jpg"
+            },
+            {
+                "id": 25,
+                "recipeId": 2,
+                "name": "Vegetable Fried Rice",
+                "ingredients": [
+                    "rice",
+                    "vegetables",
+                    "soy sauce",
+                    "oil",
+                    "garlic",
+                    "green onion",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Cook rice in boiling water for 18 minutes. In a wok, stir fry garlic and vegetables in oil until slightly browned. Add rice, soy sauce, salt, and pepper, then continue stir frying for 2-3 minutes. Garnish with green onion and serve hot.",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/jJ3gxZd/f-7.jpg"
+            },
+            {
+                "id": 26,
+                "recipeId": 2,
+                "name": "Chicken Alfredo Pasta",
+                "ingredients": [
+                    "pasta",
+                    "chicken breast",
+                    "heavy cream",
+                    "butter",
+                    "parmesan cheese",
+                    "garlic",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Cook pasta according to package instructions. In a separate pan, sauté garlic and chicken in butter until cooked through. Add heavy cream and parmesan cheese, stirring until the cheese is melted and the sauce thickens. Season with salt and pepper to taste. Toss with cooked pasta and serve hot.",
+                "rating": 4.8,
+                "image": "https://i.ibb.co/Km1vQ8N/f-3.jpg"
             }
         ]
     },
@@ -163,7 +237,23 @@
                 ],
                 "cookingMethod": "Mix together flour, sugar, and baking powder in a bowl. In another bowl, whisk together milk and eggs, then stir into the dry ingredients. Cook on a hot griddle or skillet until golden brown on both sides.",
                 "rating": 4.1,
-                "image": "https://i.ibb.co/rxD5dtd/f-15.jpg"
+                "image": "https://i.ibb.co/sgJkqjZ/f-8.jpg"
+            },
+            {
+                "id": 24,
+                "recipeId": 3,
+                "name": "Avocado Toast",
+                "ingredients": [
+                    "bread",
+                    "avocado",
+                    "lemon",
+                    "salt",
+                    "pepper",
+                    "red pepper flakes"
+                ],
+                "cookingMethod": "Toast the bread. Mash the avocado and mix with lemon juice, salt, and pepper. Spread the avocado mixture on the toast and sprinkle with red pepper flakes.",
+                "rating": 4.2,
+                "image": "https://i.ibb.co/QYrySZc/f-4.jpg"
             }
         ]
     },
@@ -219,7 +309,25 @@
                 ],
                 "cookingMethod": "Cook ground beef in a skillet, then stir in taco seasoning and a splash of water. Warm tortillas, then fill with the beef mixture, lettuce, and shredded cheese. Serve hot.",
                 "rating": 4.3,
-                "image": "https://i.ibb.co/zZmKHdy/f-16.jpg"
+                "image": "https://i.ibb.co/4pg0bzM/f-9.jpg"
+            },
+            {
+                "id": 23,
+                "recipeId": 4,
+                "name": "Spicy Chicken Curry",
+                "ingredients": [
+                    "chicken",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "tomato",
+                    "coconut milk",
+                    "curry powder",
+                    "red pepper flakes"
+                ],
+                "cookingMethod": "Heat some oil in a large pot. Add the chopped onion, garlic, and ginger and sauté until the onion is translucent. Add the chicken and cook until browned. Add the chopped tomato, curry powder, and red pepper flakes and cook for a few minutes. Add coconut milk and simmer until the chicken is cooked through.",
+                "rating": 4.8,
+                "image": "https://i.ibb.co/ryr0ZSR/f-5.jpg"
             }
         ]
     },
@@ -230,7 +338,7 @@
         "yearsOfExperience": 8,
         "numberOfRecipes": 45,
         "likes": 900,
-        "description": "Chef Peter Brown is a rising star in the world of Mexican cuisine. Born and raised in Mexico City, she draws inspiration from her childhood memories of cooking with her grandmother. Chef Maria has trained under some of the most respected chefs in the industry, including Rick Bayless and Enrique Olvera. Her passion for fresh, vibrant ingredients and bold flavors is evident in every dish she creates. In her spare time, Chef Maria loves exploring the city's vibrant food scene and practicing yoga.",
+        "description": "Chef Peter Brown is a rising star in the world of French cuisine. Born and raised in capital, she draws inspiration from her childhood memories of cooking with her grandmother. Chef Maria has trained under some of the most respected chefs in the industry, including Rick Bayless and Enrique Olvera. Her passion for fresh, vibrant ingredients and bold flavors is evident in every dish she creates. In her spare time, Chef Maria loves exploring the city's vibrant food scene and practicing yoga.",
         "recipes": [
             {
                 "id": 5,
@@ -277,6 +385,41 @@
                 "cookingMethod": "Combine cornmeal, flour, sugar, baking powder, and salt in a bowl. In another bowl, whisk together milk, eggs, and melted butter, then stir into the dry ingredients. Pour into a greased baking dish and bake until golden brown.",
                 "rating": 4.6,
                 "image": "https://i.ibb.co/s2kQKw7/f-17.jpg"
+            },
+            {
+                "id": 21,
+                "recipeId": 5,
+                "name": "Crispy Baked Chicken Wings",
+                "ingredients": [
+                    "chicken wings",
+                    "baking powder",
+                    "salt",
+                    "black pepper",
+                    "paprika",
+                    "garlic powder",
+                    "cayenne pepper"
+                ],
+                "cookingMethod": "Dry the chicken wings with paper towels. Toss them with baking powder, salt, black pepper, paprika, garlic powder, and cayenne pepper. Bake in the oven until crispy and golden brown.",
+                "rating": 4.6,
+                "image": "https://i.ibb.co/QYrySZc/f-4.jpg"
+            },
+            {
+                "id": 22,
+                "recipeId": 5,
+                "name": "Vegetable Stir Fry",
+                "ingredients": [
+                    "carrots",
+                    "broccoli",
+                    "bell pepper",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "soy sauce",
+                    "sesame oil"
+                ],
+                "cookingMethod": "Heat some oil in a wok or large skillet. Add the chopped vegetables, garlic, and ginger, and stir-fry until the vegetables are tender. Add soy sauce and sesame oil and stir to coat the vegetables.",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/fXnWLt0/f-6.jpg"
             }
         ]
     },
@@ -330,6 +473,40 @@
                 "cookingMethod": "Cook andouille sausage in a pot until browned, then remove and set aside. In the same pot, cook diced onion and bell pepper until soft. Stir in uncooked rice, diced tomatoes, and a mixture of chicken broth, Worcestershire sauce, and Cajun seasoning. Bring to a boil, then reduce heat and simmer until rice is tender. Stir in cooked shrimp and the reserved sausage, then serve hot.",
                 "rating": 4.9,
                 "image": "https://i.ibb.co/Ns0K27t/f-18.jpg"
+            },
+            {
+                "id": 19,
+                "recipeId": 6,
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "ripe tomatoes",
+                    "fresh mozzarella",
+                    "fresh basil leaves",
+                    "extra-virgin olive oil",
+                    "balsamic vinegar",
+                    "salt",
+                    "black pepper"
+                ],
+                "cookingMethod": "Slice tomatoes and mozzarella, arrange them on a plate. Add basil leaves, drizzle with olive oil and balsamic vinegar. Season with salt and black pepper.",
+                "rating": 4.8,
+                "image": "https://i.ibb.co/BKmsFcH/f-11.jpg"
+            },
+            {
+                "id": 20,
+                "recipeId": 6,
+                "name": "Chicken Stroganoff",
+                "ingredients": [
+                    "chicken sirloin",
+                    "onion",
+                    "garlic",
+                    "button mushrooms",
+                    "chicken broth",
+                    "sour cream",
+                    "egg noodles"
+                ],
+                "cookingMethod": "Saute chicken, onion, and garlic. Add mushrooms and chicken broth, and let it simmer. Add sour cream and cook for a few more minutes. Serve over egg noodles.",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/jJ3gxZd/f-7.jpg"
             }
         ]
     }
